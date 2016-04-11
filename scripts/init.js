@@ -1,3 +1,3 @@
 (function (){
-	document.write('test');
+	document.write('<div style="color:red">test</div>');
 })();
